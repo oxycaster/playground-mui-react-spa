@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EmacsSettings">
+    <option name="emacsPath" value="/usr/bin/emacs" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+  <component name="SerialMonitorSettings" BaudRate="9600" LineEndingsIndex="0" ShowStatusWidget="true" />
+  <component name="accountSettings">
+    <option name="activeProfile" value="profile:default" />
+    <option name="activeRegion" value="ap-northeast-1" />
+    <option name="recentlyUsedProfiles">
+      <list>
+        <option value="profile:default" />
+      </list>
+    </option>
+    <option name="recentlyUsedRegions">
+      <list>
+        <option value="ap-northeast-1" />
+      </list>
+    </option>
+  </component>
+</project>
